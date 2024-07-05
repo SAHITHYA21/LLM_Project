@@ -1,4 +1,4 @@
-# LLM_Project
+# LLM_Project using local model
 
 This is a simple project that explains how to use langchain framework without paid API key using local llm models. 
 
