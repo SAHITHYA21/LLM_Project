@@ -3,3 +3,4 @@ transformers
 torch
 einops
 accelerate
+langchain_community
