@@ -1,8 +1,6 @@
-# LLM_Project using local model
+# RAG Application with GPT-Neo for Text Generation
 
 This is a simple project that explains how to use langchain framework without paid API key using local llm models. 
-
-# RAG Application with GPT-Neo for Text Generation
 
 This project demonstrates how to create a simple Retrieval Augmented Generation (RAG) application using the GPT-Neo model for text generation. The application allows you to generate stories based on provided prompts.
 
